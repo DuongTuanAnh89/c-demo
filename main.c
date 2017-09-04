@@ -1,12 +1,14 @@
 #include<stdio.h>
 float devision (float a,float b);
-	
+
   main(){
 	
 	 printf ("%i\n", plus(6,7));
 	 printf ("%i\n", minus(6,7));
 	 printf ("%i\n", multiply(5,8));
-	 printf ("%f",devision(20,6));
+	 printf ("%f", devision(20,6));
+	
+	 
 }
     //Công hai so voi tham so dau vao
     // la a,b la hai so nguyen
